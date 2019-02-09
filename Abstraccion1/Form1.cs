@@ -163,11 +163,6 @@ namespace Abstraccion1
                             "Email: " + universidad.Email;
 
 
-
-
-
-
-
         }
 
         private void Form1_Load(object sender, EventArgs e)
